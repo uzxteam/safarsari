@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Safar Sari</string>
+
+    <string name="city_name">Farg`ona</string>
+    <string name="city_address">Siz o`ylagandanda yaxshiroq</string>
+    <string name="about_text">Safar Sari</string>
+
+
+    <!--=== Nav Drawer Menu Items ============================================================== -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_nav_all">Barcha manzillar</string>
+    <string name="title_nav_fav">Sevimlilar</string>
+    <string name="title_nav_news">Yangiliklar</string>
+
+    <string name="title_nav_featured">Tanlangan manzillar</string>
+    <string name="title_nav_tour">Turistik manzillar</string>
+    <string name="title_nav_food">Oshxona va Restoranlar</string>
+    <string name="title_nav_hotels">Mehmonxonalar</string>
+    <string name="title_nav_ent">Kinoteatrlar</string>
+    <string name="title_nav_sport">Sport</string>
+    <string name="title_nav_shop">Savdo markazlari</string>
+    <string name="title_nav_transport">Avtubus bekatlari</string>
+    <string name="title_nav_religion">Masjidlar</string>
+    <string name="title_nav_public">Davlat xizmatlari</string>
+    <string name="title_nav_money">Bonkamatlar</string>
+
+    <!--=== activity FullScreenImage =========================================================== -->
+    <string name="image_of">%1$d dan %2$d</string>
+
+    <!--=== activity Main ====================================================================== -->
+    <string name="press_again_exit_app">Chiqish uchun yana bir martta bosing</string>
+
+    <!--=== activity Maps ====================================================================== -->
+    <string name="no_item_at">Malumot yo`q</string>
+    <string name="dialog_content_gps">
+        GPS ochirilgan iltimos uni yoqing
+    </string>
+    <string name="activity_title_maps">@string/title_nav_all</string>
+
+    <!--=== activity PlaceDetails ============================================================== -->
+    <string name="add_favorite">Sevimlilarga saqlandi</string>
+    <string name="remove_favorite">Sevimlilardan o`chirildi</string>
+    <string name="no_phone_number">Telefon raqam yo`q</string>
+    <string name="no_website">Web sahifa mavjud emas</string>
+    <string name="fail_dial_number">Telefon raqamga terib bo`lmaydi</string>
+    <string name="fail_open_website">Web sayt ochilmadi</string>
+    <string name="unable_create_map">Kechirasiz! xaritalarni yaratib bo`lmaydi</string>
+    <string name="failed_load_details">Yuklash joyi tafsilotlari bajarilmadi</string>
+    <string name="photos_title">Rasmlar</string>
+    <string name="description_title">Tavsif</string>
+    <string name="map_title">Xarita</string>
+    <string name="map_view">Ko`rish</string>
+    <string name="map_navigate">Manzil</string>
+
+    <!--=== activity Search ==================================================================== -->
+    <string name="hint_search">Manzil qidirish...</string>
+    <string name="please_fill">Iltimos, qidiruv soʻrovini toʻldiring</string>
+
+    <!--=== activity Setting =================================================================== -->
+    <string name="default_notification_channel_id">Standart</string>
+    <string name="developer_name">UzX Team</string>
+    <string name="copyright">Barcha huquqlar himoyalangan</string>
+    <string name="pref_category_notif">Bildirishnomalar</string>
+    <string name="pref_category_display">Display</string>
+    <string name="pref_category_other">Boshqa</string>
+
+    <string name="pref_title_notif">Bildirishnoma</string>
+    <string name="pref_title_ringtone">Rington</string>
+    <string name="pref_title_vibrate">Vibratsiya</string>
+    <string name="pref_title_cache">Rasm keshini tozalash</string>
+    <string name="pref_title_theme">Mavzu rangi</string>
+    <string name="pref_title_more">Ko`proq ilovalar</string>
+    <string name="pref_title_rate">Baxolash</string>
+    <string name="pref_title_about">Ilova haqida</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_copyright">Ishlab chiquvchi</string>
+    <string name="pref_title_dev_name">DAsturchi</string>
+    <string name="pref_title_term">Foydalanish shartlari</string>
+
+    <string name="pref_key_notif">key_notifications</string>
+    <string name="pref_key_ringtone">key_ringtone</string>
+    <string name="pref_key_vibrate">key_vibrate</string>
+    <string name="pref_key_reset_cache">key_reset_cache</string>
+    <string name="pref_key_theme">key_theme</string>
+    <string name="dialog_confirm_title">Tasdiqlash</string>
+    <string name="dialog_about_title">Ilova haqida</string>
+    <string name="activity_title_settings">Sozlamalar</string>
+
+    <string name="message_clear_image_cache">Are you sure want to clear image cache?</string>
+    <string name="message_after_clear_image_cache">Image cache successfully clear</string>
+    <string name="title_dialog_theme">Color Theme</string>
+    <string name="grant_permission_account_storage">Grant account, storage permission to enable</string>
+    <string name="content_term">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dolor risus, aliquet a erat quis, viverra molestie orci. Suspendisse vehicula porta libero. Nam tincidunt nulla ipsum, vel iaculis risus scelerisque sed. Phasellus venenatis, enim vel placerat blandit, leo eros bibendum erat, at auctor mauris diam ac risus. Aenean sit amet congue neque, sit amet condimentum elit. Fusce lacinia massa vel nisl scelerisque, in scelerisque dolor elementum. Vivamus leo enim, congue dictum congue vitae, porttitor id purus. Sed eu ultricies erat. Morbi hendrerit, mi ac volutpat commodo, magna turpis pretium nibh, at fringilla eros lorem quis tellus. Praesent porttitor purus nibh, ac vestibulum massa fringilla vel. Pellentesque dapibus nulla quis luctus dictum. In scelerisque ut ex sed facilisis. Nunc eu finibus nulla, ut hendrerit sem. Suspendisse accumsan risus vel diam fringilla iaculis.
+        \n\nQuisque facilisis finibus aliquam. Sed mattis, dui fringilla ornare finibus, orci odio blandit risus, ut maximus dui odio non leo. Donec laoreet lacus nisi, a mollis velit suscipit ac. Quisque faucibus ut nisl in congue. Nam sagittis consectetur tempus. Suspendisse eget posuere dui. Donec ultricies velit ex, vel cursus odio sollicitudin in. Nullam faucibus auctor ligula, eu rhoncus dui facilisis a. Curabitur vel feugiat est. Quisque congue at enim eleifend ultrices. Proin dapibus risus lorem, nec condimentum nunc consequat vitae. Quisque sapien lorem, vestibulum vitae justo eget, fringilla eleifend nisi.
+        \n\nMauris ultricies augue sit amet est sollicitudin laoreet. Fusce ut congue felis. Fusce dictum tristique elit nec iaculis. Mauris sodales tempus fringilla. Fusce nec nunc tempus, tempor sapien sit amet, ultricies erat. Mauris ultrices ac lorem ultrices facilisis. Nam pharetra, nisi a imperdiet interdum, nunc justo ultricies nisl, a laoreet massa dui vel enim. Pellentesque et magna ac tellus ullamcorper malesuada a ac nisl. Curabitur id est et neque convallis accumsan. Aliquam eleifend varius massa. Curabitur eu finibus tortor.
+        \n\nVivamus aliquam nisl rutrum orci volutpat porta in ornare est. Quisque ligula ipsum, vulputate id aliquam vitae, semper vitae orci. Nam non pulvinar ligula, eget tincidunt ante. Quisque sapien massa, varius tempus pretium id, vehicula at magna. Ut ut ultrices augue. Nam nec ullamcorper tellus, at finibus lectus. Fusce vel iaculis mauris, id porta nulla. Aenean ac mollis sapien. Morbi imperdiet augue tempus nulla luctus, sit amet feugiat purus elementum.
+    </string>
+
+
+    <!--=== activity Splash ==================================================================== -->
+    <string name="splash_welcome_text">Hush Kelibsiz</string>
+    <string name="splash_desc_text">Safar Sari sizga diqqatga sazovor manzillarni topishga ko`maklashadi.</string>
+
+    <!--=== fragment Category ================================================================== -->
+    <string name="refresh_failed">Qayta ulanish muofaqiyatsiz</string>
+    <string name="load_of">Yuklandi %1$d dan %2$d</string>
+    <string name="load_success">Muofaqiyatli</string>
+
+
+    <!-- ==================== OTHERS STRING ==================================================== -->
+    <string name="action_settings">Sozlamalar</string>
+    <string name="no_internet">"Internet shlamadi"</string>
+    <string name="task_running">Vazifa davom etmoqda</string>
+    <string name="no_item">Element yo`q</string>
+
+    <!--Basic action Text-->
+    <string name="OK">Ok</string>
+    <string name="YES">Ha</string>
+    <string name="NO">Yo`q</string>
+    <string name="SETTING">Sozlamalar</string>
+    <string name="CANCEL">Orqaga</string>
+    <string name="SAVE">Saqlash</string>
+    <string name="DISMISS">Yopish</string>
+    <string name="HIDE">Berkitish</string>
+    <string name="RETRY">Qayta</string>
+    <string name="DETAILS">Tafsilotlar</string>
+    <string name="FAILED">Xatolik</string>
+
+
+</resources>
